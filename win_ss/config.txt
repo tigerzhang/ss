@@ -1,0 +1,14 @@
+{
+
+    "server":"<ÊäÈëip>",
+     "server_port":8388,
+
+    "local_port":1080,
+
+    "password":"<ÊäÈëÃÜÂë>",
+
+    "method": "aes-128-cfb",
+
+    "timeout":600
+
+}
