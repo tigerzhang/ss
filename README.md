@@ -14,14 +14,14 @@ $ ./ss_linux <host> <password>
 
 ## Windows
 进入 win_ss 文件夹
-编辑 config.txt文件, 把`<输入ip>`和`<输入密码>`换成相应的ip和密码
+编辑 config.txt文件, 把`<ip>`和`<password>`换成相应的ip和密码
 ```json
 {
 
-    "server":"<输入ip>",
+    "server":"<ip>",
      "server_port":8388,
     "local_port":1080,
-    "password":"<输入密码>",
+    "password":"<password>",
     "method": "aes-128-cfb",
     "timeout":600
 }
